@@ -288,7 +288,8 @@ video {
     flex-direction: column;
   }
   #homehero, #yurthero, #trailhero, #aboutushero {
-    background-size: auto;
+    background-size: cover;
+    background-position: center;
   }
   #special table {
     display: block;
